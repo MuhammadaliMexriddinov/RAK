@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/btn1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+       android:layout_marginTop="150dp"
+        android:background="@drawable/shapeinfo1"
+        android:layout_width="300dp"
+        android:layout_height="90dp">
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:layout_width="match_parent"
+            android:background="@drawable/shapeinfo2"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:src="@drawable/baseline_info_24"
+                app:tint="@color/white"
+                />
+
+            <TextView
+                android:layout_marginStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="о нас"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_marginTop="12dp"
+        android:id="@+id/btn2"
+        app:layout_constraintTop_toBottomOf="@id/btn1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/shapeinfo1"
+        android:layout_width="300dp"
+        android:layout_height="90dp">
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:layout_width="match_parent"
+            android:background="@drawable/shapeinfo2"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:src="@drawable/baseline_mail_24"
+                app:tint="@color/white"
+                />
+
+            <TextView
+                android:layout_marginStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ic@tashpmi.uz"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_marginTop="12dp"
+        android:id="@+id/btn3"
+        app:layout_constraintTop_toBottomOf="@id/btn2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/shapeinfo1"
+        android:layout_width="300dp"
+        android:layout_height="90dp">
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:layout_width="match_parent"
+            android:background="@drawable/shapeinfo2"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:src="@drawable/web"
+                app:tint="@color/white"
+                />
+
+            <TextView
+                android:layout_marginStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="web site"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_marginTop="12dp"
+        android:id="@+id/btn4"
+        app:layout_constraintTop_toBottomOf="@id/btn3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        android:background="@drawable/shapeinfo1"
+        android:layout_width="300dp"
+        android:layout_height="90dp">
+
+        <LinearLayout
+            android:layout_margin="4dp"
+            android:layout_width="match_parent"
+            android:background="@drawable/shapeinfo2"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:src="@drawable/telegram"
+                app:tint="@color/white"
+                />
+
+            <TextView
+                android:layout_marginStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="telegram"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                />
+
+
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

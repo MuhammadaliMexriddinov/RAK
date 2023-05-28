@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Saraton AI</string>
+    <string name="starttxt1">MASHINANI O‘RGANISH</string>
+    <string name="starttxt2">ORQALI O‘PKA SARATONI</string>
+    <string name="starttxt3">XAVFINI BASHORAT QILISH</string>
+
+
+    <string name="txt_main1">Alomatlar</string>
+    <string name="txt_main2">Oldini olish</string>
+
+
+    <string name="about1">
+      "Sayyoramizning har 5-aholisi ertami-kechmi saraton kasalligiga chalinadi. Ushbu kasallikdan har 8-chi erkak va 11-chi ayol vafot etadi.Saraton kasalligidan kelib chiqqan o'limlarning 70 foizi past va o'rta daromadli mamlakatlarda sodir bo'ladi.JSST mutaxassislarining ta'kidlashicha, 2020 yilda 19,3 million kishi saraton kasalligiga chalingan.
+Ushbu kasallik natijasida 10 million kishi vafot etdi. Eng keng tarqalgan saraton – bu ko'krak bezi saratoni. Undan keyin o'pka saratoni, yo'g'on ichak saratoni va prostata saratoni. Saraton-bu kasallikda tanadagi hujayralar nazoratdan chiqib ketadi. Saraton o'pkada boshlanganda, bu o'pka saratoni deb ataladi. O'pka saratoni o'pkadan boshlanadi va limfa tugunlariga yoki tananing boshqa organlariga, masalan, miyaga tarqalishi mumkin. Boshqa organlardan saraton ham o'pkaga tarqalishi mumkin. Saraton hujayralari bir organdan ikkinchisiga tarqalganda, ular metastaz deb ataladi.
+O'pka saratoni odatda kichik hujayrali va kichik bo'lmagan hujayrali deb ataladigan ikkita asosiy turga bo'linadi. Ushbu o'pka saratoni turli yo'llar bilan rivojlanadi va turli yo'llar bilan davolanadi. Kichik bo'lmagan hujayrali o'pka saratoni kichik hujayrali o'pka saratoniga qaraganda tez-tez uchraydi.
+"
+</string>
+    <string name="about2">"Saratonni bashorat qilish tizimining samaradorligi odamlarga saraton xavfini minimal xarajat bilan bilishga yordam beradi, shuningdek, odamlarga saraton xavfi holatiga qarab tegishli qarorlar qabul qilishga yordam beradi. Ma'lumotlar o'pka saratonini bashorat qilish onlayn tizimi veb-saytidan to'plangan.
+94,2% bashorat qilish aniqligi bilan BernoulliNB-Mashinani o'rganish algoritmi  ishlatiladi.
+BernoulliNB Bernoullining ko'p o'lchovli taqsimotiga muvofiq taqsimlanadigan oddiy Bayes ma'lumotlarini o'rganish va tasniflash algoritmlarini amalga oshiradi; ya'ni bir nechta funktsiyalar bo'lishi mumkin, ammo ularning har biri ikkilik (Bernulli, mantiqiy) o'zgaruvchi deb taxmin qilinadi.
+"
+</string>
+    <string name="info1">Siydikning oltita jismoniy xususiyatlari quyidagilardan iborat:</string>
+    <string name="info2">Xususiyatlar haqida</string>
+    <string name="score">Natija</string>
+    <string name="alert"> maydon to`ldirilmagan !</string>
+    <string name="alert2">Iltimos ma`lumotlar bilan tanishib chiqing !!!</string>
+    <string name="infoname1">Siydikning o`ziga xos og`irligi (g/l)</string>
+    <string name="infoname2">pH (siydik kislotaliligi)</string>
+    <string name="infoname3">Siydikning osmolyarligi (mOsm / l)</string>
+    <string name="infoname4">Siydik o`tkazuvchanligi (milliom)</string>
+    <string name="infoname5">karbamid kontsentratsiyasi</string>
+    <string name="infoname6">Siydikdagi kaltsiy (mmol/l)</string>
+    <string name="infoText1">buyrak funktsiyasini klinik baholash uchun ishlatiladigan ko`rsatkich va turli buyrak kasalliklarini tashxislashda yordam beradi.</string>
+    <string name="infoText2">kislota-ishqor muvozanatini tartibga solishda ishtirok etish jarayonida buyrak kanalchalari tomonidan ishlab chiqariladigan vodorod ionlari (protonlar) miqdorini aks ettiradi.</string>
+    <string name="infoText3">barcha erigan moddalarning undagi kontsentratsiyasi. O`ziga xos og`irlikdan farqli o`laroq, u faqat zarrachalar soniga bog`liq, zichlik esa faqat miqdori bilan emas,
+        balki aralashmalarning strukturaviy xususiyatlari bilan ham belgilanadi.</string>
+    <string name="infoText4">"siydikdagi osmotik kontsentratsiya va kreatinin bilan o'zaro bog'liq bo'lib, u bemorlarning diuretik holatini kuzatish uchun foydali parametrdir"</string>
+    <string name="infoText5">"uning darajasi oqsil balansining holatini aks ettiradi. Karbamid siydik bilan birga buyraklar orqali chiqariladi, shuning uchun siydikdagi karbamid
+        miqdori buyraklarning ekskretor funktsiyasining eng muhim klinik va laboratoriya ko'rsatkichlaridan biridir"</string>
+    <string name="infoText6">ushbu test ovqat bilan kaltsiyni yetib borishi, buyrakni finktsional holati va boshqa ba`zi organlarning faoliyatini bilvosita baholash uchun,
+        siydikdagi kationli (musbat zaryadlangan zarrachalar) kaltsiy miqdorini bilvosita baholash  uchun laboratoriya tekshiruvidir.</string>
+    <string name="weebsite">Veb-sayt</string>
+    <string name="about">Ilova haqida</string>
+    <string name="facebook">Facebook</string>
+    <string name="Telegram">Telegram</string>
+    <string name="Gmail">Gmail</string>
+    <string name="Settings">Til o`zgartirish</string>
+    <string name="share">Ulashish</string>
+    <string name="exit">Chiqish</string>
+    <string name="back">Orqaga</string>
+    <string name="start1">So`rovnomadan o`tishdan oldin  foydalanish shartlari bilan tanishib chiqishingizni so`rab qolamiz!</string>
+    <string name="start2">Berilgan ma`lumot bilan tanishib chiqdim.</string>
+    <string name="dialogUzb1">Siydik-tosh kasalligi (urolitiaz) — bu siydik ajratish tizimida, ya’ni buyrakda, siydik pufagida va siydik yo’llarida toshlar (konkrementlar) mavjudligi bilan xarakterlanadigan surunkali, retsidivlanishga moyil bo’lgan modda almashinuvi kasalligidir. Ba’zan urolitiaz va nefrolitiaz terminlari sinonimlar sifatida ishlatiladi, lekin nefrolitiaz deb faqatginda buyrakda toshlar mavjudligini atash mumkin (boshqa siydik ajratish tizimi bo’limlarida emas).</string>
+    <string name="dialogUzb2">Ushbu test to`liq diagnostika hisoblanmaydi.Natijalar faqat ma`lumot berish uchun  mo`ljallangan va ular malakali tashxis emas.</string>
+    <string name="dialogUzb3">Ma`lumotlaringiz xavfsizligi ta`minlanadi. Siz berayotgan ma`lumotlar  anonim va ular uchinchi shaxslarga taqdim etilmaydi.</string>
+    <string name="d1">Sizning natijangiz</string>
+    <string name="d2">RAKSIZ !!!</string>
+    <string name="d3">Orqaga</string>
+    <string name="d4">Qo`shimcha</string>
+    <string name="d5">Tabriklaymiz, sizda saraton  kasalligi yo`q.</string>
+    <string name="language">Til</string>
+    <string name="uzbek">O\'zbekcha</string>
+    <string name="russian">Ruscha</string>
+    <string name="start">Boshlash</string>
+    <string name="yes">Bor</string>
+    <string name="no">Yo`q</string>
+
+    <string name="test1">Test</string>
+    <string name="test2">Test haqida</string>
+    <string name="symptom1">Qanday alomatlarga ega?</string>
+    <string name="symptom2">"Turli odamlarda o'pka saratonining turli belgilari mavjud. Ba'zi odamlarda o'pka bilan bog'liq alomatlar mavjud. O'pka saratoni tananing boshqa qismlariga tarqalgan (metastazlangan) ba'zi odamlarda tananing bu qismiga xos alomatlar mavjud. Ba'zi odamlar o'zlarini yomon his qilishning umumiy alomatlarini boshdan kechirishadi.
+O'pka saratoni bilan og'rigan odamlarning aksariyati saraton rivojlanmaguncha hech qanday alomat ko'rsatmaydi. O'pka saratoni belgilari quyidagilarni o'z ichiga olishi mumkin:\n
+Kuchayadigan yoki o’tib ketmaydigan yo'tal.\n
+Ko'krakda og'riq.\n
+Nafas qisilishi.\n
+Xirillab nafas olish\n
+Qonli yo'tal.\n
+Surunkali charchoq.\n
+Hech qanday sababsiz vazn yo'qotish.\n
+Ba'zida o'pka saratoni bilan yuzaga kelishi mumkin bo'lgan boshqa o'zgarishlar orasida pnevmoniyaning takroriy xurujlari va o'pka orasidagi ko'krak qafasi ichidagi shishgan yoki kattalashgan limfa tugunlari (bezlari) bo'lishi mumkin.\n
+Ushbu alomatlar boshqa kasalliklarda ham namoyon bo'lishi mumkin. Agar sizda ushbu alomatlardan ba'zilari bo'lsa, sababini topish uchun shifokoringizga murojaat qiling.
+"</string>
+
+
+    <string name="next1">Mutaxassislarning prognozlari</string>
+    <string name="next1.0">"Saraton kasalligi bilan kasallanganlar soni, shuningdek, saraton kasalligidan kelib chiqqan o'limlar soni o'sishda davom etmoqda. Mutaxassislarning kelajak uchun prognozlari -kelgusi o'n yilliklarda bu tendentsiya davom etadi.
+JSST ma'lumotlariga ko'ra, 2040 yilda saraton kasalligi 2020 yilga nisbatan 47 foizga ko'p bo'ladi. Ko'rsatkichlarning eng muhim o'sishi yana past va o'rta daromadli mamlakatlarga to'g'ri keladi.
+"
+</string>
+    <string name="next2">"O'zingizni saraton kasalligidan himoya\n qilish uchun nima qilishingiz mumkin"</string>
+    <string name="next2.1">"JSST mutaxassislari saraton kasalligining asosiy sabablarini unutmaslikni va turmush tarzingizga tegishli tuzatishlar kiritishni taklif qilmoqdalar:\n
+chekmang;\n
+spirtli ichimliklarni iste'mol qilishni cheklash;\n
+sog'lom bo'lish-muntazam ravishda mashq qilish, yaxshi ovqatlanish, ayniqsa ko'proq sabzavot va mevalarni iste'mol qilish;\n
+sog'lig'ingizni kuzatib boring va saraton kasalligiga olib kelishi mumkin bo'lgan kasalliklarga – gepatit B va papillomavirusga qarshi emlang;\n
+ko'p vaqt to'liq quyoshda bo’lmang .
+"</string>
+    <string name="next3">Kasallik turlari</string>
+    <string name="next3.1">Lokalizatsiyaga qarab kasallikning bir nechta turlari ajratiladi. Nefrolitiaz-bu buyrak toshlarining shakllanishi, ureterolitiaz-siydik yo`llarida toshlarning mavjudligi va sistolitiaz-siydik pufagida shakllanish. Va toshlar kimyoviy tarkibida farq qiladi. Ular siydik kislotasi tuzlari, magniy tuzlari, kaltsiy birikmalari asosida oqsillar yordamida hosil bo`lishi yoki polimineral bo`lishi mumkin.
+</string>
+    <string name="next4">Diagnostika</string>
+    <string name="next4.1">Boshqa ko`plab holatlarda bo`lgani kabi, Siydik tosh kasalligi tashxisi anamnezni yig`ish, bemorning shikoyatlarini tahlil qilish bilan boshlanadi. Bemor kuchli og`riqni his qilishi va siyish bilan bog`liq muammolarga duch kelishi haqidagi ma`lumotlarga asoslanib, ma`lum xulosalar chiqarish mumkin.\n
+Keyinchalik tayinlanadi:\n
+ to`liq qon ro`yxati;\n
+ siydikni tahlil qilish va biokimyo;\n
+ KT;\n
+ Siydik va buyraklarning ultratovush tekshiruvi.\n
+Tashxis qo`yishda shunga o`xshash alomatlarga ega bo`lgan boshqa kasalliklarni, masalan, o`tkir xoletsistit yoki appenditsitni istisno qilish muhimdir.
+</string>
+    <string name="next5">Davolash</string>
+    <string name="next5.1">Siydik tosh kasalligini davolash rejimiga sistolitiaz toshining tarkibi, joylashuvi, bemorning umumiy holatiga ta`siri ta`sir qiladi. Kasallikning xususiyatlari ham hisobga olinadi. Sistolitiyazlarni davolashda asosiy vazifa siydik tizimidan toshlarni olib tashlashdir. Ular eritiladi yoki jarrohlik yo`li bilan chiqariladi.\n
+Shunday qilib, urolitiyozni davolash bir necha nuqtalarga to`g`ri keladi:\n
+ba`zi dori-darmonlarni qabul qilish;\n
+fizioterapiya;\n
+parhez;\n
+operatsiya.\n
+Bemorga hayot sifatini qaytarish uchun og`riq sindromi to`xtatiladi, antispazmodiklar buyuriladi. Ba`zi hollarda juda kuchli og`riq qoldiruvchi vositalar talab qilinadi.
+Toshlarni eritish jarayoni tez emas, ba`zi usullar darhol natija bermaydi-dastur vaziyatga qarab tanlanadi va shifokorlar tomonidan doimiy ravishda nazorat qilinadi.
+Siydik tosh kasalligi uchun parhez muhim ahamiyatga ega: yuqori sifatli ichimlik rejimi, yog`li, achchiq, ziravorlar, qahva, choy, shokoladni cheklash. Dukkaklilar, tsitrus mevalar, sut mahsulotlari va boshqa ko`plab oziq – ovqat turlari ham tavsiya etilmaydi-har bir bemorga batafsil eslatma beriladi.
+Jarrohlik aralashuviga kelsak, operatsiya turlari ham har xil – bemorning ahvoli va tosh (tosh) xususiyatlariga qarab tanlanadigan beshdan ortiq usul mavjud.
+Xalq davosi sifatida turli xil o`simlik preparatlari qo`llaniladi. Ammo hech qanday holatda ularni shifokor bilan maslahatlashmasdan mustaqil ravishda ichish mumkin emas – avval shifokorning ruxsatini oling.
+</string>
+    <string name="next6">Oldini olish</string>
+    <string name="next6.1">Siydik tosh kasalligini oldini olish choralari quyidagi harakatlardir:\n
+* agar Kolik juda kamdan-kam hollarda paydo bo`lsa va ayniqsa bezovta qilmasa, shifokorga murojaat qiling. Muammoni eng boshida o`rganish va samarali davolanishni buyurish yaxshiroqdir;\n
+* agar urologik kasalliklar mavjud bo`lsa, muntazam tekshiruvlardan o`ting;\n
+* achchiq, sho`r, yog` miqdorini kamaytirib, sog`lom ovqatlar iste`mol qiling;\n
+* spirtli ichimliklarni iste`mol qilishni istisno qilish yoki minimallashtirish;\n
+* kundalik suv miqdorini iching, ichimlik rejimini buzmang. Suv yuqori sifatli bo`lishi kerak, filtr orqali tozalanishi kerak;\n
+* har kuni harakatlaning, jismoniy faoliyatga vaqt ajrating.\n
+Siydik tosh kasalligining oldini olish bo`yicha ushbu tavsiyalar xavflarni sezilarli darajada kamaytirishga yordam beradi.</string>
+
+</resources>

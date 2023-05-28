@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/language"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/linear1"
+       app:layout_constraintTop_toBottomOf="@id/txt"
+        android:layout_marginTop="22dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:background="?selectableItemBackground"
+            android:layout_marginBottom="22dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:id="@+id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+
+
+
+            <LinearLayout
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+                <ImageView
+                    android:id="@+id/imgUz"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/uzb"
+
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/txtUz"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="36dp"
+                    android:text="Ўзбек"
+                    android:textColor="@color/black"
+                    android:textSize="32dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/imgRu"
+                    app:layout_constraintStart_toEndOf="@id/imgUz"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.178" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/l2"
+            android:background="?selectableItemBackground"
+            app:layout_constraintTop_toBottomOf="@id/l1"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="28dp"
+            android:layout_height="60dp">
+
+
+
+            <LinearLayout
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+                <ImageView
+                    android:id="@+id/imgRu"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/rus"
+                  />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_weight="1">
+                <TextView
+                    android:id="@+id/txtRu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="36dp"
+                    android:text="Русский"
+                    android:textColor="@color/black"
+                    android:textSize="32dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/imgRu"
+                    app:layout_constraintStart_toEndOf="@id/imgUz"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.178" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:padding="14dp"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:src="@drawable/close"
+        app:tint="@color/black"
+        android:id="@+id/btnBack"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="12dp"
+        android:layout_marginTop="12dp"
+        android:background="?selectableItemBackgroundBorderless"
+        />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

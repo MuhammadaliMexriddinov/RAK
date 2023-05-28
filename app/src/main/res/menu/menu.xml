@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/tests"
+        app:tint="@color/white"
+        android:iconTint="@color/white"
+        android:title="@string/test1" />
+
+    <item
+        android:id="@+id/about"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ti2"
+        app:tint="@color/white"
+        android:title="@string/test2" />
+
+
+</menu>
